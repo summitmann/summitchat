@@ -1,14 +1,14 @@
 {
   "name": "summitchat",
   "version": "0.0.4",
-  "description": "",
+  "description": "one room chat program",
   "dependencies": {
       "express": "3.0.0",
       "socket.io": "latest",
       "underscore": "latest"
   },
   "author": "mmann",
-  "license": "unlicensed",
+  "license": "UNLICENSED",
   "subdomain": "freechat",
   "scripts": {
     "start": "node ./app/scripts/web"
